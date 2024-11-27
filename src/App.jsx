@@ -7,7 +7,7 @@ import About from './components/About';
 import NotFound from './components/NotFound';
 import MapContainer from './components/Map/MapContainer';
 import SceneContainer from './components/Scene/SceneContainer';
-import './app.css';
+import './App.css';
 
 function App() {
   const mapViewRef = useRef(null);
